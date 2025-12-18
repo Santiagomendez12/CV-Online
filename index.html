@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mendez Santiago Gabriel - CV</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home" class="nav-link active" onclick="showSection('home')">Inicio</a></li>
+            <li><a href="#competencias" class="nav-link" onclick="showSection('competencias')">Competencias</a></li>
+            <li><a href="#experiencia" class="nav-link" onclick="showSection('experiencia')">Experiencia</a></li>
+            <li><a href="#educacion" class="nav-link" onclick="showSection('educacion')">Educación</a></li>
+            <li><a href="#disponibilidad" class="nav-link" onclick="showSection('disponibilidad')">Disponibilidad</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <!-- Página Principal / Home -->
+        <section id="home" class="section active">
+            <div class="profile-photo">
+                <img src="fotosantiperfil.jpeg" alt="Santiago Mendez">
+            </div>
+            
+            <h1 class="main-name">Mendez Santiago Gabriel</h1>
+            <p class="main-title">Técnico en Computación</p>
+            
+            <div class="contact-info-home">
+                <div>📍 CABA, Villa del Parque</div>
+                <div>📧 santimendez.et35@gmail.com</div>
+                <div>📱 +54 (9)11 6037-8033</div>
+            </div>
+
+            <div class="profile-box">
+                <h2>Perfil Profesional</h2>
+                <p>
+                    Soy una persona muy dispuesta a aprender, me adapto fácilmente a distintos ambientes de trabajo y 
+                    siempre estoy predispuesto a nuevas cosas. Busco una oportunidad en rubro comercial para crecer 
+                    laboralmente y relacionarme con el público.
+                </p>
+            </div>
+
+            <button class="download-btn" onclick="window.print()">📄 Descargar CV en PDF</button>
+        </section>
+
+        <!-- Competencias -->
+        <section id="competencias" class="section">
+            <div class="content-section">
+                <h2 class="section-header">Competencias</h2>
+                <div class="skills-grid">
+                    <div class="skill-item">✓ Resolución de conflictos</div>
+                    <div class="skill-item">✓ Adaptabilidad</div>
+                    <div class="skill-item">✓ Comunicación efectiva</div>
+                    <div class="skill-item">✓ Trabajo en equipo</div>
+                    <div class="skill-item">✓ Trabajo bajo presión</div>
+                    <div class="skill-item">✓ Inglés: Nivel medio</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experiencia Laboral -->
+        <section id="experiencia" class="section">
+            <div class="content-section">
+                <h2 class="section-header">Experiencia Laboral</h2>
+                <div class="experience-item">
+                    <div class="item-title">Cajero en Local de comida rápida familiar</div>
+                    <div class="item-period">Agosto 2024 - Septiembre 2025</div>
+                    <div class="item-description">
+                        Atención al cliente y manejo de dinero en ambiente de alta demanda. Responsable de la gestión de caja, 
+                        cobros, y atención personalizada a clientes en un entorno dinámico de comida rápida.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Educación -->
+        <section id="educacion" class="section">
+            <div class="content-section">
+                <h2 class="section-header">Educación</h2>
+                <div class="education-item">
+                    <div class="item-title">Escuela Técnica N°35 D.E N°18</div>
+                    <div class="item-title" style="font-size: 1.2em; color: #555;">"Ing. Eduardo Latzina"</div>
+                    <div class="item-period">2019 - 2025</div>
+                    <div class="item-description">
+                        <strong>Especialidad:</strong> Técnico en Computación<br>
+                        Formación técnica completa en sistemas computacionales, programación, redes, 
+                        hardware y mantenimiento de equipos informáticos.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Disponibilidad -->
+        <section id="disponibilidad" class="section">
+            <div class="content-section">
+                <h2 class="section-header">Disponibilidad</h2>
+                <div class="badges-grid">
+                    <div class="badge-large">✓ Disponibilidad inmediata</div>
+                    <div class="badge-large">✓ Movilidad geográfica</div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
