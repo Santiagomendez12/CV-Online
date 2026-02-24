@@ -5,7 +5,7 @@
 💻 Técnico en Computación  
 📍 Buenos Aires, Villa del parque
 
-[![Ver CV](https://img.shields.io/badge/Ver%20CV-Online-green)](https://santiagomendez12.github.io/CV-Online/))
+Aqui puedes ver mi CV Online ---> [![Ver CV](https://img.shields.io/badge/Ver%20CV-Online-green)](https://santiagomendez12.github.io/CV-Online/)
 
 ---
 
