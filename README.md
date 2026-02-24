@@ -15,4 +15,4 @@ Me adapto rápido, me gusta aprender y trabajar en equipo.
 
 ## Mi CV
 
-👉 https://santiagomendez12.github.io
+👉 [https://santiagomendez12.github.io](https://santiagomendez12.github.io/CV-Online/)
