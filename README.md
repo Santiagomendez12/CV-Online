@@ -3,15 +3,16 @@
 # 👋 Hola, soy Santiago
 
 💻 Técnico en Computación  
-📍 Buenos Aires
+📍 Buenos Aires, Villa del parque
 
-[![Ver CV](https://img.shields.io/badge/Ver%20CV-Online-green)]([https://santiagomendez12.github.io](https://santiagomendez12.github.io/CV-Online/))
+[![Ver CV](https://img.shields.io/badge/Ver%20CV-Online-green)](https://santiagomendez12.github.io/CV-Online/))
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de informática y me gusta aprender tecnología y programación.
+Soy estudiante de computacion, actualmente estoy en mi ultimo año tengo muchas ganas de aprender y crecer en el mundo de la tecnología.
+Me adapto rápido a nuevos entornos, disfruto trabajar en equipo y resolver problemas.
 
 ---
 
@@ -24,16 +25,9 @@ Soy estudiante de informática y me gusta aprender tecnología y programación.
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomendez12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomendez12&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contacto
 
 📧 santimendez.et35@gmail.com
+📞 1160378022
 
 ![](https://komarev.com/ghpvc/?username=santiagomendez12)
